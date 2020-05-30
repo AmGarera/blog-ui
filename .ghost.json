@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://ghost.anthonygarera.com",
+    "contentApiKey": "df4bd7aee7d64cf1fe9875fab8"
+  },
+  "production": {
+    "apiUrl": "https://ghost.anthonygarera.com",
+    "contentApiKey": "df4bd7aee7d64cf1fe9875fab8"
+  }
+}
